@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ihjancatbog.github.io/cn-portal-hth-com-cn-2/sitemap.xml
